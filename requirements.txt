@@ -15,3 +15,4 @@ openai
 python-dotenv
 streamlit
 llama-cpp-python
+streamlit-chat
