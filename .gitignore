@@ -1,0 +1,12 @@
+# Directories
+__pycache__/
+speech_module/__pycache__/
+.venv/
+.vscode/
+
+models/
+saved_audio/ 
+
+# Files
+.env
+.DS_Store
