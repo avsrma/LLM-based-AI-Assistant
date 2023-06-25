@@ -1,0 +1,17 @@
+datasets
+transformers
+soundfile
+librosa
+torch
+torchvision 
+torchaudio
+webrtcvad
+onnx
+onnxruntime
+pyctcdecode
+pyaudio
+sentencepiece
+openai
+python-dotenv
+streamlit
+llama-cpp-python
