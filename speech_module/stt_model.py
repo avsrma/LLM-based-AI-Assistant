@@ -3,7 +3,7 @@ from transformers import AutoModelForCTC, AutoProcessor, Wav2Vec2Processor, Wav2
 
 class SpeechToTextModel():
     def __init__(self, 
-                 model_name="maxidl/wav2vec2-large-xlsr-german", #"facebook/wav2vec2-large-960h-lv60-self", # "facebook/wav2vec2-large-robust-ft-swbd-300h", 
+                 model_name="facebook/wav2vec2-large-960h-lv60-self", # "maxidl/wav2vec2-large-xlsr-german", # "facebook/wav2vec2-large-robust-ft-swbd-300h" 
                  hotwords=["Hello"],
                  use_gpu=False, 
                  use_autoprocessor=True, 
