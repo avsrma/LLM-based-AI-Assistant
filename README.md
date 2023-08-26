@@ -1,5 +1,5 @@
-# AGI Voice Assistant 
-This is an Artificial General Intelligence based Voice Assistant. A user can interact with the Voice Assistant in natural language, currently English. 
+# LLM-based Voice Assistant 
+This is an AI Voice Assistant based on Large Language Models. A user can interact with the Voice Assistant in natural language, currently English. 
 
 The implementation brings various deep learning models together: 
 - Large Language Model (GPT-4 or Alpaca, can be chosen) 
